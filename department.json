@@ -1,0 +1,54 @@
+[
+  {
+    "_id": "FIN001",
+    "name": "Accounting",
+    "head": "Chioma Eze",
+    "employees_count": 5,
+    "services": ["Payroll Processing", "Tax Filing", "Expense Management"],
+    "contact_email": "account@example.com"
+  },
+  {
+    "_id": "HR002",
+    "name": "Human Resources",
+    "head": "Mercy Chijoke",
+    "employees_count": 4,
+    "responsibilities": ["Employee Relations", "Recruitment", "Training & Development"],
+    "contact_email": "hr@example.com"
+  },
+  {
+    "_id": "IT003",
+    "name": "Information Technology",
+    "head": "Temitope Azeez",
+    "employees_count": 3,
+    "projects": ["Network Security", "Software Development", "IT Support"],
+    "tools_used": ["AWS", "Docker", "MongoDB"],
+    "contact_email": "it@example.com"
+  },
+  {
+    "_id": "MKT004",
+    "name": "Marketing",
+    "head": "Uduak Monday",
+    "employees_count": 25,
+    "campaigns": ["SEO", "Social Media Ads", "Email Marketing"],
+    "platforms_used": ["Google Ads", "Facebook", "LinkedIn"],
+    "contact_email": "marketing@example.com"
+  },
+  {
+    "_id": "OPS005",
+    "name": "Technical/Operations",
+    "head": "Richard Sam",
+    "employees_count": 18,
+    "responsibilities": ["Logistics", "Project Planning & Management", "Coordination"],
+    "key_partners": ["DHL", "FedEx"],
+    "contact_email": "operations@example.com"
+  },
+  {
+    "_id": "QHSE006",
+    "name": "QHSE",
+    "head": "Bennedit Chimezie",
+    "employees_count": 6,
+    "responsibilities": ["Quaity manaement Systems", "Health and Safty Management"],
+    "key_partners": ["DMAC", "Tollman"],
+    "contact_email": "qhse@example.com"
+  }
+]

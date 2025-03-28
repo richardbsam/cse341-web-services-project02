@@ -1,0 +1,104 @@
+ [
+    {
+      "name": "John Doe",
+      "email": "johndoe@example.com",
+      "phone": "+1234567890",
+      "position": "Software Engineer",
+      "salary": 50000,
+      "hireDate": "2023-06-15",
+      "departmentId": "IT003",
+      "createdAt": "2025-03-26T12:00:00Z"
+    },
+    {
+      "name": "Jane Smith",
+      "email": "janesmith@example.com",
+      "phone": "+0987654321",
+      "position": "Project Manager",
+      "salary": 70000,
+      "hireDate": "2022-08-20",
+      "departmentId": "OPS005",
+      "createdAt": "2025-03-26T12:30:00Z"
+    },
+    {
+      "name": "Michael Brown",
+      "email": "michaelbrown@example.com",
+      "phone": "+1122334455",
+      "position": "HR Manager",
+      "salary": 60000,
+      "hireDate": "2021-09-10",
+      "departmentId": "HR002",
+      "createdAt": "2025-03-26T13:00:00Z"
+    },
+    {
+      "name": "Emily Davis",
+      "email": "emilydavis@example.com",
+      "phone": "+2233445566",
+      "position": "Marketing Specialist",
+      "salary": 45000,
+      "hireDate": "2023-01-05",
+      "departmentId": "ObjectId",
+      "createdAt": "2025-03-26T13:30:00Z"
+    },
+    {
+      "name": "David Wilson",
+      "email": "davidwilson@example.com",
+      "phone": "+3344556677",
+      "position": "Finance Analyst",
+      "salary": 55000,
+      "hireDate": "2020-11-25",
+      "departmentId": "MKT004",
+      "createdAt": "2025-03-26T14:00:00Z"
+    },
+    {
+      "name": "Sophia Martinez",
+      "email": "sophiamartinez@example.com",
+      "phone": "+4455667788",
+      "position": "Sales Executive",
+      "salary": 48000,
+      "hireDate": "2023-05-15",
+      "departmentId": "MKT004",
+      "createdAt": "2025-03-26T14:30:00Z"
+    },
+    {
+      "name": "Daniel Taylor",
+      "email": "danieltaylor@example.com",
+      "phone": "+5566778899",
+      "position": "DevOps Engineer",
+      "salary": 75000,
+      "hireDate": "2021-06-30",
+      "departmentId": "IT003",
+      "createdAt": "2025-03-26T15:00:00Z"
+    },
+    {
+      "name": "Olivia Anderson",
+      "email": "oliviaanderson@example.com",
+      "phone": "+6677889900",
+      "position": "Product Manager",
+      "salary": 85000,
+      "hireDate": "2019-07-20",
+      "departmentId": "IT003",
+      "createdAt": "2025-03-26T15:30:00Z"
+    },
+    {
+      "name": "William Thomas",
+      "email": "williamthomas@example.com",
+      "phone": "+7788990011",
+      "position": "UI/UX Designer",
+      "salary": 53000,
+      "hireDate": "2022-03-15",
+      "departmentId": "IT003",
+      "createdAt": "2025-03-26T16:00:00Z"
+    },
+    {
+      "name": "Emma Harris",
+      "email": "emmaharris@example.com",
+      "phone": "+8899001122",
+      "position": "Data Scientist",
+      "salary": 90000,
+      "hireDate": "2020-12-10",
+      "departmentId": "IT003",
+      "createdAt": "2025-03-26T16:30:00Z"
+    }
+  ]
+
+
