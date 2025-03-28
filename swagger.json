@@ -5,11 +5,14 @@
     "description": "API Documentation for Departments and Staff",
     "version": "1.0.0"
   },
-  "host": "localhost:5000",
+
+
+  "host": "https://cse341-web-services-project02-1.onrender.com/api-docs/",
   "basePath": "/",
   "schemes": [
-    "http"
+    "https"
   ],
+  
   "paths": {
     "/": {
       "get": {
