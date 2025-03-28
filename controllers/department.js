@@ -34,7 +34,6 @@ const createDepartment = async (req, res) => {
       name: req.body.name,
       head: req.body.head,
       employees_count: req.body.employees_count,
-      responsibilities: req.body.responsibilities,
       contact_email: req.body.contact_email,
       createdAt: new Date()
     };
@@ -58,7 +57,6 @@ const updateDepartment = async (req, res) => {
       name: req.body.name,
       head: req.body.head,
       employees_count: req.body.employees_count,
-      responsibilities: req.body.responsibilities,
       contact_email: req.body.contact_email,
       createdAt: new Date()
     };

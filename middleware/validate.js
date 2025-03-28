@@ -28,8 +28,6 @@ const validateDepartment = (req, res, next) => {
     name: 'required|string|min:3|max:50',
     head: 'required|string|min:3|max:50',
     employees_count: 'required|numeric|min:0',
-    responsibilities: 'array',
-    'responsibilities.*': 'string|min:3|max:100',
     contact_email: 'required|email',
   };
 
