@@ -5,14 +5,11 @@
     "description": "API Documentation for Departments and Staff",
     "version": "1.0.0"
   },
-
-
   "host": "cse341-web-services-project02-1.onrender.com",
   "basePath": "/",
   "schemes": [
     "https"
   ],
-  
   "paths": {
     "/": {
       "get": {
@@ -242,12 +239,6 @@
                 "employees_count": {
                   "example": "any"
                 },
-                "projects": {
-                  "example": "any"
-                },
-                "tools_used": {
-                  "example": "any"
-                },
                 "contact_email": {
                   "example": "any"
                 }
@@ -319,12 +310,6 @@
                   "example": "any"
                 },
                 "employees_count": {
-                  "example": "any"
-                },
-                "projects": {
-                  "example": "any"
-                },
-                "tools_used": {
                   "example": "any"
                 },
                 "contact_email": {
