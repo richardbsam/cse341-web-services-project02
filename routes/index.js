@@ -9,5 +9,6 @@ router.get('/', (req, res) => {
 });
 
 router.use('/staff', require('./staff'));
+router.use('/department', require('./department'));
 
 module.exports = router;

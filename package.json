@@ -9,7 +9,8 @@
     "lint": "eslint .",
     "lint:fix": "eslint --fix",
     "format": "prettier --write './**/*.{js,jsx,ts,tsx,css,md,json}' --config ./.prettierrc",
-    "swagger": "node ./swagger.js"
+    "swagger": "node ./swagger.js",
+    "swagger-autogen": "node swagger.js"
   },
   "author": "",
   "license": "ISC",
@@ -22,7 +23,8 @@
     "mongodb": "^4.4.0",
     "mongoose": "^8.13.0",
     "package.json": "^2.0.1",
-    "swagger-ui-express": "^4.3.0",
+    "swagger-jsdoc": "^6.2.8",
+    "swagger-ui-express": "^4.6.3",
     "validatorjs": "^3.22.1"
   },
   "devDependencies": {
@@ -31,6 +33,6 @@
     "eslint-plugin-prettier": "^4.0.0",
     "nodemon": "^1.19.4",
     "prettier": "^2.5.1",
-    "swagger-autogen": "^2.19.0"
+    "swagger-autogen": "^2.23.7"
   }
 }

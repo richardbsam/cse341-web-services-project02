@@ -2,8 +2,8 @@ const swaggerAutogen = require('swagger-autogen')();
 
 const doc = {
   info: {
-    title: 'My API',
-    description: 'Staff API'
+    title: 'Company Management API',
+    description: 'API Documentation for Departments and Staff'
   },
   host: 'localhost:5000', // Updated host for local development
   schemes: ['http'] // Using HTTP instead of HTTPS for localhost
@@ -16,6 +16,6 @@ const endpointsFiles = ['./routes/index.js'];
 swaggerAutogen(outputFile, endpointsFiles, doc);
 
 // Run server after it gets generated
-// swaggerAutogen(outputFile, endpointsFiles, doc).then(async () => {
-//   await import('./server.js'); // Ensure this matches your server entry file
-// });
+swaggerAutogen(outputFile, endpointsFiles, doc).then(async () => {
+await import('./server.js'); // Ensure this matches your server entry file
+});
