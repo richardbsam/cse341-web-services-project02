@@ -5,7 +5,7 @@
     "description": "API Documentation for Departments and Staff",
     "version": "1.0.0"
   },
-  "host": "cse341-web-services-project02-1.onrender.com",
+  "host": "cse341-web-services-project02.onrender.com",
   "basePath": "/",
   "schemes": [
     "https"
