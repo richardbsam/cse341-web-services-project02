@@ -7,7 +7,7 @@
   },
 
 
-  "host": "https://cse341-web-services-project02-1.onrender.com",
+  "host": "cse341-web-services-project02-1.onrender.com",
   "basePath": "/",
   "schemes": [
     "https"

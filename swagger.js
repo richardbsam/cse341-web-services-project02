@@ -5,7 +5,7 @@ const doc = {
     title: 'Company Management API',
     description: 'API Documentation for Departments and Staff'
   },
-  host: 'https://cse341-web-services-project02-1.onrender.com', // Updated host for local development
+  host: 'cse341-web-services-project02-1.onrender.com', // Updated host for local development
   schemes: ['https'] // Using HTTP instead of HTTPS for localhost
 };
 
