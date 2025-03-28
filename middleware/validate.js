@@ -25,14 +25,11 @@ const validateStaff = (req, res, next) => {
 
 const validateDepartment = (req, res, next) => {
   const validationRule = {
-    _id: 'string|regex:/^[a-fA-F0-9]{24}$/', // Optional since MongoDB generates it
     name: 'required|string|min:3|max:50',
     head: 'required|string|min:3|max:50',
     employees_count: 'required|numeric|min:0',
-    projects: 'array',
-    'projects.*': 'string|min:3|max:100',
-    tools_used: 'array',
-    'tools_used.*': 'string|min:3|max:100',
+    responsibilities: 'array',
+    'responsibilities.*': 'string|min:3|max:100',
     contact_email: 'required|email',
   };
 

@@ -3,7 +3,7 @@
     "name": "Accounting",
     "head": "Chioma Eze",
     "employees_count": 5,
-    "services": ["Payroll Processing", "Tax Filing", "Expense Management"],
+    "responsibilities": ["Payroll Processing", "Tax Filing", "Expense Management"],
     "contact_email": "account@example.com"
   },
   {
@@ -17,16 +17,14 @@
     "name": "Information Technology",
     "head": "Temitope Azeez",
     "employees_count": 3,
-    "projects": ["Network Security", "Software Development", "IT Support"],
-    "tools_used": ["AWS", "Docker", "MongoDB"],
+    "responsibilitiess": ["Network Security", "Software Development", "IT Support"],
     "contact_email": "it@example.com"
   },
   {
     "name": "Marketing",
     "head": "Uduak Monday",
     "employees_count": 25,
-    "campaigns": ["SEO", "Social Media Ads", "Email Marketing"],
-    "platforms_used": ["Google Ads", "Facebook", "LinkedIn"],
+    "responsibilities": ["SEO", "Social Media Ads", "Email Marketing"],
     "contact_email": "marketing@example.com"
   },
   {
@@ -34,7 +32,6 @@
     "head": "Richard Sam",
     "employees_count": 18,
     "responsibilities": ["Logistics", "Project Planning & Management", "Coordination"],
-    "key_partners": ["DHL", "FedEx"],
     "contact_email": "operations@example.com"
   },
   {
@@ -42,7 +39,6 @@
     "head": "Bennedit Chimezie",
     "employees_count": 6,
     "responsibilities": ["Quaity manaement Systems", "Health and Safty Management"],
-    "key_partners": ["DMAC", "Tollman"],
     "contact_email": "qhse@example.com"
   }
 ]
