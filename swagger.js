@@ -5,8 +5,8 @@ const doc = {
     title: 'Company Management API',
     description: 'API Documentation for Departments and Staff'
   },
-  host: 'localhost:5000', // Updated host for local development
-  schemes: ['http'] // Using HTTP instead of HTTPS for localhost
+  host: 'cse341-web-services-project02.onrender.com', // Updated host for local development
+  schemes: ['https'] // Using HTTP instead of HTTPS for localhost
 };
 
 const outputFile = './swagger.json';
